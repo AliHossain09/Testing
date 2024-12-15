@@ -8,3 +8,11 @@
 .cursor{
     cursor: url('../cursor.png');
 }
+
+
+.zzz{
+    font-size: 50px;
+    padding: 20px;
+    text-shadow: 5px 5px 7px;
+    -moz-outline-radius-topleft: ;
+}
